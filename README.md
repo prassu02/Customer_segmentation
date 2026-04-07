@@ -67,8 +67,6 @@ Customer_Segmentation/
 │── requirements.txt
 │── README.md
 
-```id="u6wqk8"
-
 ---
 
 ## ▶️ How to Run
@@ -79,21 +77,18 @@ Customer_Segmentation/
 git clone [https://github.com/prassu02/customersegmentation.git](https://github.com/prassu02/customersegmentation.git)
 cd customersegmentation
 
-```id="0k7r2l"
 
 ### 2. Install Dependencies
 ```
 
 pip install -r requirements.txt
 
-```id="c2m4ab"
 
 ### 3. Run Streamlit App
 ```
 
 streamlit run app.py
 
-```id="v7x5p9"
 
 ---
 
