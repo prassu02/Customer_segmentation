@@ -122,5 +122,3 @@ streamlit run app.py
 Machine Learning Engineer | AI | Data Science  
 
 ---
-Just tell me 👍
-
